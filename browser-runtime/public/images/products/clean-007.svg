@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Paper Towels</title>
+  <desc id="desc">Neutral vector illustration of Paper Towels for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <g stroke="#8A9691" stroke-width="6">
+    <path d="M173 172h155v171H173Z" fill="#FBFBF7"/>
+    <ellipse cx="251" cy="172" rx="78" ry="30" fill="#FFFFFF"/>
+    <ellipse cx="251" cy="172" rx="25" ry="12" fill="#D8D4C6"/>
+    <ellipse cx="251" cy="343" rx="78" ry="30" fill="#F2F3EE"/>
+    <path d="M328 172h151v171H328Z" fill="#F8F9F5"/>
+    <ellipse cx="404" cy="172" rx="76" ry="30" fill="#FFFFFF"/>
+    <ellipse cx="404" cy="172" rx="25" ry="12" fill="#D8D4C6"/>
+    <ellipse cx="404" cy="343" rx="76" ry="30" fill="#F0F2ED"/>
+  </g>
+  <g fill="none" stroke="#D6DDD8" stroke-width="4" opacity=".9">
+    <path d="M194 223c31-22 70-22 112 0M194 269c31-22 70-22 112 0M194 315c31-22 70-22 112 0"/>
+    <path d="M350 218h108M350 250h108M350 282h108M350 314h108" stroke-dasharray="8 8"/>
+  </g>
+</svg>

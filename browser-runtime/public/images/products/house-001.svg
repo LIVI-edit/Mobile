@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Lemon-Scented Dish Soap</title>
+  <desc id="desc">Neutral vector illustration of Lemon-Scented Dish Soap for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <path d="M252 112h137v61l28 36v141c0 28-23 50-51 50H252c-28 0-51-22-51-50V209l51-36Z" fill="#BEE8D0" stroke="#397B5A" stroke-width="6"/>
+  <rect x="266" y="73" width="109" height="52" rx="14" fill="#2D8F5B" stroke="#1D6942" stroke-width="5"/>
+  <path d="M241 238h136v98H241Z" fill="#F3E47C" stroke="#8E9C53" stroke-width="4"/>
+  <path d="M309 258c39 35 34 66 0 76-35-10-39-41 0-76Z" fill="#F2C94C" stroke="#B28A1F" stroke-width="4"/>
+  <path d="M305 248c8-23 26-34 47-31-10 20-25 30-47 31Z" fill="#4A9C62"/>
+  <g fill="#FFFFFF" opacity=".7"><circle cx="234" cy="196" r="8"/><circle cx="258" cy="180" r="5"/><circle cx="392" cy="193" r="7"/></g>
+</svg>

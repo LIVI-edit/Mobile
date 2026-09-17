@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Sunflower Oil</title>
+  <desc id="desc">Neutral vector illustration of Sunflower Oil for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <path d="M246 121h148v44l24 35v143c0 22-18 39-40 39H262c-22 0-40-17-40-39V200l24-35Z" fill="#F5D86F" fill-opacity=".78" stroke="#7A866C" stroke-width="6"/>
+  <rect x="259" y="85" width="122" height="47" rx="12" fill="#2F8F5B" stroke="#1F6C45" stroke-width="5"/>
+  <rect x="241" y="230" width="158" height="79" rx="18" fill="#EAF4C6" stroke="#5B9B68" stroke-width="4"/>
+  <path d="M260 269c38-31 76-31 120 0-36 27-78 27-120 0Z" fill="#7ABD78"/>
+  <g transform="translate(477 267)">
+    <circle r="29" fill="#6B4B2A"/>
+    <g fill="#F4C542"><ellipse cy="-43" rx="12" ry="27"/><ellipse cy="43" rx="12" ry="27"/><ellipse cx="43" rx="27" ry="12"/><ellipse cx="-43" rx="27" ry="12"/><ellipse transform="rotate(45)" cy="-43" rx="12" ry="27"/><ellipse transform="rotate(-45)" cy="-43" rx="12" ry="27"/><ellipse transform="rotate(45)" cy="43" rx="12" ry="27"/><ellipse transform="rotate(-45)" cy="43" rx="12" ry="27"/></g>
+  </g>
+</svg>

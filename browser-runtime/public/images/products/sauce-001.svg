@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Tomato Paste</title>
+  <desc id="desc">Neutral vector illustration of Tomato Paste for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <path d="M206 184h205v146c0 31-25 56-56 56h-93c-31 0-56-25-56-56Z" fill="#E7E9E5" stroke="#68736E" stroke-width="6"/>
+  <ellipse cx="309" cy="184" rx="103" ry="31" fill="#F1F3EF" stroke="#68736E" stroke-width="6"/>
+  <ellipse cx="309" cy="184" rx="77" ry="20" fill="#B92F32" stroke="#7C2026" stroke-width="4"/>
+  <rect x="223" y="239" width="172" height="68" rx="17" fill="#F0B04C" stroke="#A25C27" stroke-width="4"/>
+  <path d="M250 272c39-24 79-24 118 0-37 23-77 23-118 0Z" fill="#D74736"/>
+  <path d="M426 323c33-34 85-30 105 7-10 32-43 49-75 39-31-9-43-29-30-46Z" fill="#B72D31" stroke="#7C2026" stroke-width="5"/>
+  <path d="M420 358c33 0 70 13 98 39" fill="none" stroke="#7E8A84" stroke-width="9" stroke-linecap="round"/>
+</svg>

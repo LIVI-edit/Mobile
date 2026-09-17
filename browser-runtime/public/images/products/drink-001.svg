@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Bottled Water</title>
+  <desc id="desc">Neutral vector illustration of Bottled Water for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <path d="M264 91h111v59l23 43v146c0 31-25 56-56 56h-45c-31 0-56-25-56-56V193l23-43Z" fill="#DDF3F5" fill-opacity=".82" stroke="#55818A" stroke-width="6"/>
+  <rect x="274" y="63" width="91" height="40" rx="11" fill="#2B9B75" stroke="#1E7157" stroke-width="5"/>
+  <path d="M259 217h121v94H259Z" fill="#A7E2D4" stroke="#3E9D83" stroke-width="4"/>
+  <path d="M268 274c32-45 68-53 104-18-31 35-66 41-104 18Z" fill="#67C3B0"/>
+  <path d="M283 170h73M278 337h83" stroke="#9BCBD0" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#FFFFFF" opacity=".7"><circle cx="288" cy="197" r="7"/><circle cx="304" cy="180" r="5"/><circle cx="349" cy="325" r="6"/></g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Green Cabbage</title>
+  <desc id="desc">Neutral vector illustration of Green Cabbage for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <g stroke="#47885C" stroke-width="5" stroke-linejoin="round">
+    <ellipse cx="322" cy="247" rx="151" ry="112" fill="#B9D98F"/>
+    <path d="M190 254c25-78 82-123 132-119-34 49-46 104-33 172-42-10-74-27-99-53Z" fill="#89C079"/>
+    <path d="M454 252c-24-76-79-120-132-117 35 49 47 104 35 171 39-9 72-27 97-54Z" fill="#98C982"/>
+    <path d="M257 151c45 25 70 73 65 151-46-27-71-78-65-151Z" fill="#D8E9A9"/>
+    <path d="M388 151c-46 25-71 73-66 151 45-27 70-78 66-151Z" fill="#C8E19B"/>
+    <path d="M227 293c62 28 129 29 194 0-29 42-65 63-99 64-36-1-69-21-95-64Z" fill="#74B36D"/>
+  </g>
+  <path d="M322 150v170M245 222c47 12 103 12 154 0" stroke="#5A9D66" stroke-width="4" fill="none" opacity=".75"/>
+</svg>

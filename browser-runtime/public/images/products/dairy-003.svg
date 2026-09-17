@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cultured Cream, 15% Milkfat</title>
+  <desc id="desc">Neutral vector illustration of Cultured Cream, 15% Milkfat for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <path d="M198 181h211l-18 157c-2 18-17 31-35 31H251c-18 0-33-13-35-31Z" fill="#FFFFFF" stroke="#78978B" stroke-width="6"/>
+  <ellipse cx="304" cy="181" rx="106" ry="28" fill="#F8FBF9" stroke="#78978B" stroke-width="6"/>
+  <path d="M214 263h181l-7 63H222Z" fill="#69B986"/>
+  <path d="M235 274h139" stroke="#BFEBD0" stroke-width="10" stroke-linecap="round"/>
+  <path d="M430 282c30-31 78-25 95 9-9 30-38 46-67 38-29-8-39-27-28-47Z" fill="#FFFFFF" stroke="#A6B5AE" stroke-width="5"/>
+  <path d="M455 292c15-12 34-11 45 1" fill="none" stroke="#E7ECE9" stroke-width="8" stroke-linecap="round"/>
+  <path d="M418 325c29 3 60 18 82 46" fill="none" stroke="#7C8B85" stroke-width="9" stroke-linecap="round"/>
+</svg>

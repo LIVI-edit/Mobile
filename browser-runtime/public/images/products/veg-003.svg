@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Beets</title>
+  <desc id="desc">Neutral vector illustration of Beets for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <g stroke="#6F153B" stroke-width="5">
+    <circle cx="248" cy="251" r="82" fill="#A72D55"/>
+    <circle cx="378" cy="244" r="77" fill="#8F2149"/>
+    <circle cx="459" cy="287" r="61" fill="#C23C65"/>
+    <circle cx="459" cy="287" r="42" fill="none" stroke="#F28AA7" stroke-width="4"/>
+    <circle cx="459" cy="287" r="23" fill="none" stroke="#F6A2B9" stroke-width="3"/>
+  </g>
+  <path d="M234 182c-47-53-32-99 5-110 16 41 17 76-5 110Z" fill="#3C945E" stroke="#226E43" stroke-width="4"/>
+  <path d="M260 181c20-60 61-81 91-62-27 37-52 59-91 62Z" fill="#62AA68" stroke="#286E46" stroke-width="4"/>
+  <path d="M372 174c-4-59 29-90 61-84-10 42-28 69-61 84Z" fill="#458E57" stroke="#286E46" stroke-width="4"/>
+  <path d="M226 327c7 24 1 38-18 54M374 315c-1 27-11 40-31 53" fill="none" stroke="#6F153B" stroke-width="7" stroke-linecap="round"/>
+</svg>

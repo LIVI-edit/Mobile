@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Onions</title>
+  <desc id="desc">Neutral vector illustration of Onions for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <g stroke="#A56A23" stroke-width="5">
+    <path d="M185 280c0-77 54-124 113-124s112 47 112 124c0 53-45 82-112 82s-113-29-113-82Z" fill="#E2A94F"/>
+    <path d="M284 164c-8-31 3-57 25-78 2 35-3 61-25 78Z" fill="#9B6B2D"/>
+    <circle cx="447" cy="271" r="72" fill="#F3D596"/>
+    <circle cx="447" cy="271" r="53" fill="none" stroke="#D7AE67" stroke-width="4"/>
+    <circle cx="447" cy="271" r="34" fill="none" stroke="#D7AE67" stroke-width="4"/>
+    <circle cx="447" cy="271" r="15" fill="#E7C47F"/>
+  </g>
+  <path d="M207 242c54 25 127 24 181-1M222 293c44 20 105 20 151 0" fill="none" stroke="#C68734" stroke-width="4" opacity=".75"/>
+</svg>

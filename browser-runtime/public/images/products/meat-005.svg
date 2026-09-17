@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Pork Shoulder Roast</title>
+  <desc id="desc">Neutral vector illustration of Pork Shoulder Roast for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <rect x="132" y="163" width="376" height="177" rx="35" fill="#F9FAF6" stroke="#A9B8B1" stroke-width="7"/>
+  <rect x="153" y="184" width="334" height="135" rx="26" fill="#E4EEE8" stroke="#CAD7D0" stroke-width="3"/>
+  <path d="M213 293c-19-49 2-98 48-110 52-13 113 8 157 54 19 20 12 53-12 68-53 29-145 27-193-12Z" fill="#E8958D" stroke="#A85255" stroke-width="5"/>
+  <path d="M246 226c46-22 105-11 148 29M260 278c44 17 91 17 130 2" fill="none" stroke="#F9CEC2" stroke-width="8" stroke-linecap="round"/>
+  <path d="M319 190c-8 29-4 58 16 85" fill="none" stroke="#F7E7D1" stroke-width="11" stroke-linecap="round"/>
+</svg>

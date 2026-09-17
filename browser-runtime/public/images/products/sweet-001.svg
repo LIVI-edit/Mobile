@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Milk Chocolate</title>
+  <desc id="desc">Neutral vector illustration of Milk Chocolate for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <g transform="rotate(-8 322 260)">
+    <rect x="180" y="153" width="287" height="185" rx="20" fill="#6B4029" stroke="#3F271C" stroke-width="6"/>
+    <g stroke="#B87A4E" stroke-width="4"><path d="M252 154v184M324 154v184M396 154v184"/><path d="M180 215h287M180 277h287"/></g>
+    <path d="M180 153h127v185H180Z" fill="#79B786" stroke="#3F7D57" stroke-width="6"/>
+    <path d="M180 153 307 153 274 205 180 220Z" fill="#B8E0C3"/>
+  </g>
+  <path d="M205 175c21 20 39 24 61 8M207 255c22 18 41 22 66 8" fill="none" stroke="#E5F2E8" stroke-width="8" stroke-linecap="round"/>
+</svg>

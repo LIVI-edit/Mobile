@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Garlic</title>
+  <desc id="desc">Neutral vector illustration of Garlic for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <g stroke="#B8AA8C" stroke-width="5">
+    <path d="M208 269c0-60 45-106 107-106 64 0 111 46 111 106 0 58-49 92-110 92-63 0-108-34-108-92Z" fill="#F5EEDB"/>
+    <path d="M315 164c-7-34 3-62 24-88 4 41-1 69-24 88Z" fill="#D9C79D"/>
+    <path d="M315 180c-34 30-45 93-30 163M315 180c37 31 48 91 33 162M266 191c-23 39-22 97 2 144M366 190c26 40 25 98 0 145" fill="none"/>
+    <path d="M444 264c32-27 74-17 87 16-17 39-62 58-96 29-7-17-4-31 9-45Z" fill="#FFF8E8"/>
+    <path d="M446 327c25-24 60-15 69 12-15 31-49 43-74 20-5-13-3-23 5-32Z" fill="#F7EED8"/>
+    <path d="M151 294c27-27 67-18 78 13-15 36-57 52-88 25-6-15-2-27 10-38Z" fill="#FFF8E8"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Boneless Skinless Chicken Breasts</title>
+  <desc id="desc">Neutral vector illustration of Boneless Skinless Chicken Breasts for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <rect x="133" y="166" width="374" height="171" rx="35" fill="#F9FAF6" stroke="#A9B8B1" stroke-width="7"/>
+  <rect x="154" y="186" width="332" height="130" rx="26" fill="#E4EEE8" stroke="#CAD7D0" stroke-width="3"/>
+  <path d="M199 270c12-61 62-94 122-71 43 17 50 60 23 95-43 31-112 25-145-24Z" fill="#F3B8A7" stroke="#B97568" stroke-width="5"/>
+  <path d="M342 272c7-55 49-87 99-68 38 14 47 53 24 86-35 31-95 28-123-18Z" fill="#F7C2B2" stroke="#B97568" stroke-width="5"/>
+  <path d="M226 243c26-18 60-22 87-8M370 242c22-15 48-17 70-8" fill="none" stroke="#FFD8CD" stroke-width="5" stroke-linecap="round"/>
+</svg>

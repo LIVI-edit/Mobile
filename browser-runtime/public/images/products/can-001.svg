@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canned Green Peas</title>
+  <desc id="desc">Neutral vector illustration of Canned Green Peas for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <path d="M201 170h224v158c0 34-28 61-62 61H263c-34 0-62-27-62-61Z" fill="#CFD7D4" stroke="#64736E" stroke-width="6"/>
+  <ellipse cx="313" cy="170" rx="112" ry="35" fill="#E5EBE8" stroke="#64736E" stroke-width="6"/>
+  <ellipse cx="313" cy="170" rx="83" ry="23" fill="#4B9C62" stroke="#2F744A" stroke-width="4"/>
+  <g fill="#77BD67" stroke="#2F744A" stroke-width="3"><circle cx="266" cy="165" r="18"/><circle cx="306" cy="177" r="18"/><circle cx="347" cy="159" r="18"/><circle cx="375" cy="181" r="16"/><circle cx="291" cy="145" r="15"/></g>
+  <rect x="218" y="238" width="190" height="72" rx="18" fill="#E6F2D6" stroke="#65A66A" stroke-width="4"/>
+  <path d="M247 274c42-26 87-26 132 0-42 25-88 25-132 0Z" fill="#75B96A"/>
+  <g fill="#77BD67" stroke="#2F744A" stroke-width="3"><circle cx="464" cy="326" r="16"/><circle cx="500" cy="346" r="14"/><circle cx="526" cy="316" r="13"/></g>
+</svg>

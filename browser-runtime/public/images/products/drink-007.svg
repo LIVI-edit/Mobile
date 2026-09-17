@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Instant Coffee</title>
+  <desc id="desc">Neutral vector illustration of Instant Coffee for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <path d="M180 166h211v169c0 31-25 56-56 56h-99c-31 0-56-25-56-56Z" fill="#D7E0DC" fill-opacity=".78" stroke="#5C6C66" stroke-width="6"/>
+  <rect x="171" y="126" width="229" height="55" rx="16" fill="#293D47" stroke="#172A34" stroke-width="6"/>
+  <rect x="201" y="227" width="169" height="79" rx="18" fill="#B88958" stroke="#6F4C30" stroke-width="4"/>
+  <g fill="#5E3B27"><circle cx="239" cy="257" r="8"/><circle cx="269" cy="277" r="7"/><circle cx="303" cy="251" r="8"/><circle cx="337" cy="277" r="7"/></g>
+  <path d="M430 264h89v55c0 29-20 49-45 49s-44-20-44-49Z" fill="#F8F4E9" stroke="#65736D" stroke-width="5"/>
+  <path d="M519 278c37-3 46 45 10 55" fill="none" stroke="#65736D" stroke-width="7"/>
+  <path d="M449 277h53" stroke="#8A5A36" stroke-width="9" stroke-linecap="round"/>
+  <path d="M409 342c31 0 65 13 91 38" fill="none" stroke="#7C8A84" stroke-width="9" stroke-linecap="round"/>
+</svg>

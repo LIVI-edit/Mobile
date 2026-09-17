@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Bay Leaves</title>
+  <desc id="desc">Neutral vector illustration of Bay Leaves for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <path d="M190 126h260l27 221H163Z" fill="#FFFFFF" fill-opacity=".74" stroke="#70867A" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M190 158h260" stroke="#8BA294" stroke-width="5" stroke-dasharray="12 10"/>
+  <g fill="#6F8F49" stroke="#3F652D" stroke-width="4">
+    <path d="M230 276c8-69 50-99 91-82-8 51-38 84-91 82Z"/>
+    <path d="M314 301c4-67 46-101 89-87-5 53-34 86-89 87Z"/>
+    <path d="M261 338c8-47 38-69 69-57-7 37-30 58-69 57Z"/>
+  </g>
+  <g fill="#789850" stroke="#3F652D" stroke-width="4">
+    <path d="M459 303c8-50 39-73 71-59-7 38-31 61-71 59Z"/>
+    <path d="M474 359c6-41 31-60 58-49-5 32-25 50-58 49Z"/>
+  </g>
+  <g stroke="#D6E0DA" stroke-width="4"><path d="M205 188h221"/><path d="M199 212h232"/></g>
+</svg>

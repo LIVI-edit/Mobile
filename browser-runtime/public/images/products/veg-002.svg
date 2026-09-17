@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Carrots</title>
+  <desc id="desc">Neutral vector illustration of Carrots for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <g stroke="#B55A1F" stroke-width="5" stroke-linejoin="round">
+    <path d="M198 173C267 165 325 194 361 226L248 333C222 294 204 237 198 173Z" fill="#F28C28"/>
+    <path d="M306 143C369 145 421 175 451 208L352 322C326 278 310 218 306 143Z" fill="#FF9D32"/>
+  </g>
+  <g fill="#2C8C57" stroke="#1F6F46" stroke-width="4" stroke-linecap="round">
+    <path d="M223 180c-31-42-21-78 1-93 9 34 12 62-1 93Z"/>
+    <path d="M241 179c10-49 39-70 64-65-14 31-34 54-64 65Z"/>
+    <path d="M326 154c-22-44-7-77 17-88 2 34-2 62-17 88Z"/>
+    <path d="M344 154c17-44 48-60 71-51-18 28-39 47-71 51Z"/>
+  </g>
+  <g stroke="#D66B23" stroke-width="4" stroke-linecap="round"><path d="m235 226 39 9"/><path d="m260 264 33 8"/><path d="m349 213 38 10"/><path d="m368 251 34 9"/></g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Large Eggs</title>
+  <desc id="desc">Neutral vector illustration of Large Eggs for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <path d="M142 258c17-62 71-100 178-100s164 39 180 100l-31 85H173Z" fill="#B9A77F" stroke="#786B4E" stroke-width="6"/>
+  <path d="M158 257h326" stroke="#786B4E" stroke-width="6"/>
+  <g fill="#F5E5C2" stroke="#B69C6A" stroke-width="4">
+    <ellipse cx="210" cy="224" rx="35" ry="48"/><ellipse cx="270" cy="214" rx="35" ry="48"/><ellipse cx="330" cy="221" rx="35" ry="48"/><ellipse cx="390" cy="214" rx="35" ry="48"/><ellipse cx="450" cy="226" rx="35" ry="48"/>
+    <ellipse cx="301" cy="289" rx="34" ry="47"/>
+    <ellipse cx="523" cy="310" rx="38" ry="52" fill="#FFF0D1"/>
+  </g>
+  <path d="M183 281h275M198 322h247" stroke="#8F7F5D" stroke-width="5" opacity=".7"/>
+</svg>

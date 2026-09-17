@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Meat Pelmeni Dumplings</title>
+  <desc id="desc">Neutral vector illustration of Meat Pelmeni Dumplings for the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="34" fill="#F4FBF7"/>
+  <circle cx="76" cy="72" r="30" fill="#DDF5E8"/>
+  <circle cx="566" cy="86" r="18" fill="#FFF0B8"/>
+  <path d="M48 344C126 300 214 330 294 350C382 372 475 372 592 326V420H48Z" fill="#E7F6EF"/>
+  <ellipse cx="320" cy="345" rx="205" ry="25" fill="#16324F" opacity=".10"/>
+  <circle cx="590" cy="350" r="9" fill="#26A269" opacity=".75"/>
+  <path d="M151 118h285l39 244H126Z" fill="#D9EEF4" stroke="#477A89" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M157 158h273" stroke="#6A9BA8" stroke-width="5" stroke-dasharray="13 10"/>
+  <rect x="190" y="219" width="221" height="95" rx="26" fill="#F7FBFA" fill-opacity=".82" stroke="#8DB3B6" stroke-width="4"/>
+  <g fill="#F4DEC0" stroke="#A9855F" stroke-width="4">
+    <path d="M219 268c17-30 47-34 67-3-5 29-56 35-67 3Z"/><path d="M281 268c17-30 47-34 67-3-5 29-56 35-67 3Z"/><path d="M342 268c17-30 47-34 67-3-5 29-56 35-67 3Z"/>
+    <path d="M456 302c17-30 47-34 67-3-5 29-56 35-67 3Z"/><path d="M425 351c17-30 47-34 67-3-5 29-56 35-67 3Z"/>
+  </g>
+  <g stroke="#C7A27C" stroke-width="3"><path d="m229 263 45 3"/><path d="m291 263 45 3"/><path d="m352 263 45 3"/><path d="m466 297 45 3"/><path d="m435 346 45 3"/></g>
+</svg>
