@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cleaning &amp; Laundry</title>
+  <!-- Sandbox catalog image -->
+  <desc id="desc">Neutral vector illustration for the Cleaning &amp; Laundry category in the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="36" fill="#F6F7F3"/>
+  <rect x="28" y="28" width="584" height="364" rx="30" fill="#FFFFFF" stroke="#DDE5DF" stroke-width="4"/>
+  <circle cx="548" cy="84" r="38" fill="#DDF5E9"/>
+  <circle cx="92" cy="340" r="24" fill="#FFF1CF"/>
+  <path d="M185 115h82v45l39 34v125H145V194l40-34Z" fill="#DDF5E9" stroke="#18324A" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M185 115h82v40h-82Z" fill="#27865F"/>
+  <path d="M171 220h109v64H171Z" rx="22" fill="#2EAD78"/>
+  <path d="M376 147h101l26 52v120H350V199Z" fill="#FFFFFF" stroke="#18324A" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M376 147h101l-8 50h-84Z" fill="#F4B942"/>
+  <circle cx="449" cy="230" r="31" fill="#A8D8EE" opacity=".72"/>
+  <circle cx="503" cy="136" r="24" fill="#DDF5E9" stroke="#2EAD78" stroke-width="7"/>
+  <circle cx="535" cy="190" r="15" fill="#E7F1F8" stroke="#27865F" stroke-width="6"/>
+</svg>

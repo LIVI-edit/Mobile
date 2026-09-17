@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Bakery &amp; Bread</title>
+  <!-- Sandbox catalog image -->
+  <desc id="desc">Neutral vector illustration for the Bakery &amp; Bread category in the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="36" fill="#F6F7F3"/>
+  <rect x="28" y="28" width="584" height="364" rx="30" fill="#FFFFFF" stroke="#DDE5DF" stroke-width="4"/>
+  <circle cx="548" cy="84" r="38" fill="#DDF5E9"/>
+  <circle cx="92" cy="340" r="24" fill="#FFF1CF"/>
+  <path d="M137 246c0-75 59-128 143-128s143 53 143 128v55H137Z" fill="#F4B942" stroke="#18324A" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M204 145c-10 35-5 69 17 100M274 126c-8 39-1 78 25 112M344 144c-6 33 2 64 25 90" fill="none" stroke="#FFF1CF" stroke-width="15" stroke-linecap="round"/>
+  <path d="M427 214c42-45 93-39 110 7-13 68-76 97-127 59-11-8-15-22-8-34 7-12 16-23 25-32Z" fill="#C9473C" opacity=".92"/>
+  <path d="M432 228c25 30 51 46 84 51" fill="none" stroke="#FFF1CF" stroke-width="13" stroke-linecap="round"/>
+</svg>

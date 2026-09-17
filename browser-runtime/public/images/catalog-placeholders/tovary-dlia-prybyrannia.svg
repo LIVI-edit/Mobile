@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Household Essentials</title>
+  <!-- Sandbox catalog image -->
+  <desc id="desc">Neutral vector illustration for the Household Essentials category in the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="36" fill="#F6F7F3"/>
+  <rect x="28" y="28" width="584" height="364" rx="30" fill="#FFFFFF" stroke="#DDE5DF" stroke-width="4"/>
+  <circle cx="548" cy="84" r="38" fill="#DDF5E9"/>
+  <circle cx="92" cy="340" r="24" fill="#FFF1CF"/>
+  <path d="M148 191h190l-18 128H166Z" fill="#DDF5E9" stroke="#18324A" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M174 191c12-70 129-70 139 0" fill="none" stroke="#27865F" stroke-width="13" stroke-linecap="round"/>
+  <path d="M198 237h91" stroke="#2EAD78" stroke-width="18" stroke-linecap="round"/>
+  <path d="M397 103 464 279" stroke="#18324A" stroke-width="14" stroke-linecap="round"/>
+  <path d="m423 248 74-28 24 63-74 28Z" fill="#F4B942" stroke="#18324A" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M363 272c35 8 69 23 101 45" fill="none" stroke="#C9473C" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="519" cy="144" r="24" fill="#E7F1F8"/>
+  <circle cx="552" cy="188" r="15" fill="#DDF5E9"/>
+</svg>

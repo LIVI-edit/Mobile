@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Canned &amp; Jarred</title>
+  <!-- Sandbox catalog image -->
+  <desc id="desc">Neutral vector illustration for the Canned &amp; Jarred category in the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="36" fill="#F6F7F3"/>
+  <rect x="28" y="28" width="584" height="364" rx="30" fill="#FFFFFF" stroke="#DDE5DF" stroke-width="4"/>
+  <circle cx="548" cy="84" r="38" fill="#DDF5E9"/>
+  <circle cx="92" cy="340" r="24" fill="#FFF1CF"/>
+  <path d="M141 132h169v187H141Z" fill="#FFFFFF" stroke="#18324A" stroke-width="10"/>
+  <path d="M130 112h191v39H130Z" rx="8" fill="#27865F"/>
+  <path d="M165 194h122v79H165Z" rx="18" fill="#DDF5E9"/>
+  <circle cx="205" cy="233" r="22" fill="#C9473C"/>
+  <circle cx="251" cy="232" r="19" fill="#F4B942"/>
+  <path d="M354 151h142v168H354Z" fill="#FFFFFF" stroke="#18324A" stroke-width="10"/>
+  <path d="M343 130h164v38H343Z" fill="#F4B942"/>
+  <path d="M377 204h96v67h-96Z" rx="16" fill="#E7F1F8"/>
+  <path d="M397 247c19-38 39-42 58-12-16 28-35 32-58 12Z" fill="#2EAD78"/>
+</svg>

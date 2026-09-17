@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Pantry</title>
+  <!-- Sandbox catalog image -->
+  <desc id="desc">Neutral vector illustration for the Pantry category in the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="36" fill="#F6F7F3"/>
+  <rect x="28" y="28" width="584" height="364" rx="30" fill="#FFFFFF" stroke="#DDE5DF" stroke-width="4"/>
+  <circle cx="548" cy="84" r="38" fill="#DDF5E9"/>
+  <circle cx="92" cy="340" r="24" fill="#FFF1CF"/>
+  <path d="M142 112h170l20 211H122Z" fill="#FFFFFF" stroke="#18324A" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M142 112h170l-8 54H135Z" fill="#2EAD78"/>
+  <circle cx="225" cy="238" r="52" fill="#FFF1CF"/>
+  <path d="M202 262c13-53 30-78 50-76-2 35-18 61-50 76Zm16-15c-21-32-40-45-57-39 7 31 25 44 57 39Z" fill="#F4B942"/>
+  <path d="M386 127h108l31 191H358Z" fill="#DDF5E9" stroke="#18324A" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M395 179c70 20 90 70 58 126M425 175c55 33 66 81 28 130" fill="none" stroke="#C9473C" stroke-width="11" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Beverages</title>
+  <!-- Sandbox catalog image -->
+  <desc id="desc">Neutral vector illustration for the Beverages category in the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="36" fill="#F6F7F3"/>
+  <rect x="28" y="28" width="584" height="364" rx="30" fill="#FFFFFF" stroke="#DDE5DF" stroke-width="4"/>
+  <circle cx="548" cy="84" r="38" fill="#DDF5E9"/>
+  <circle cx="92" cy="340" r="24" fill="#FFF1CF"/>
+  <path d="M174 102h85v52l23 33v132H151V187l23-33Z" fill="#E7F1F8" stroke="#18324A" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M174 102h85v37h-85Z" fill="#27865F"/>
+  <path d="M171 221h91" stroke="#2EAD78" stroke-width="22"/>
+  <path d="M346 151h151l-18 168H365Z" fill="#FFFFFF" stroke="#18324A" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M362 219h119l-12 92h-96Z" fill="#F4B942" opacity=".9"/>
+  <path d="M430 114 390 232" stroke="#C9473C" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="449" cy="252" r="18" fill="#FFFFFF" opacity=".45"/>
+</svg>

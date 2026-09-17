@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Snacks &amp; Candy</title>
+  <!-- Sandbox catalog image -->
+  <desc id="desc">Neutral vector illustration for the Snacks &amp; Candy category in the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="36" fill="#F6F7F3"/>
+  <rect x="28" y="28" width="584" height="364" rx="30" fill="#FFFFFF" stroke="#DDE5DF" stroke-width="4"/>
+  <circle cx="548" cy="84" r="38" fill="#DDF5E9"/>
+  <circle cx="92" cy="340" r="24" fill="#FFF1CF"/>
+  <rect x="133" y="119" width="205" height="202" rx="20" fill="#7A4D3B" stroke="#18324A" stroke-width="10"/>
+  <path d="M201 124v192M270 124v192M138 187h195M138 254h195" stroke="#F3C6A8" stroke-width="8" opacity=".72"/>
+  <path d="M402 178c32-24 76-19 100 11 24 31 19 74-12 97-31 24-76 19-100-12-23-30-18-72 12-96Z" fill="#C9473C"/>
+  <path d="m399 195-57-30 15 69Zm97 79 58 28-18-67Z" fill="#F4B942" stroke="#18324A" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="446" cy="232" r="25" fill="#FFF1CF"/>
+</svg>

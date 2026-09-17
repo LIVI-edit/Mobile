@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Produce</title>
+  <!-- Sandbox catalog image -->
+  <desc id="desc">Neutral vector illustration for the Produce category in the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="36" fill="#F6F7F3"/>
+  <rect x="28" y="28" width="584" height="364" rx="30" fill="#FFFFFF" stroke="#DDE5DF" stroke-width="4"/>
+  <circle cx="548" cy="84" r="38" fill="#DDF5E9"/>
+  <circle cx="92" cy="340" r="24" fill="#FFF1CF"/>
+  <circle cx="230" cy="222" r="78" fill="#C9473C"/>
+  <circle cx="288" cy="222" r="78" fill="#F4B942"/>
+  <path d="M260 147c12-36 40-54 77-52-7 33-31 54-77 52Z" fill="#2EAD78"/>
+  <path d="M266 151c-2-25 4-43 18-59" stroke="#18324A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M383 123 455 280 356 262Z" fill="#F4B942"/>
+  <path d="M389 137c27-19 51-24 73-14M401 161c24-18 47-22 68-12" stroke="#27865F" stroke-width="13" stroke-linecap="round"/>
+  <path d="M180 298c71 32 176 36 281 0" fill="none" stroke="#27865F" stroke-width="15" stroke-linecap="round" opacity=".32"/>
+</svg>

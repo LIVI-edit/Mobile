@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Condiments &amp; Spices</title>
+  <!-- Sandbox catalog image -->
+  <desc id="desc">Neutral vector illustration for the Condiments &amp; Spices category in the Retail AI Showcase demo catalog.</desc>
+  <rect width="640" height="420" rx="36" fill="#F6F7F3"/>
+  <rect x="28" y="28" width="584" height="364" rx="30" fill="#FFFFFF" stroke="#DDE5DF" stroke-width="4"/>
+  <circle cx="548" cy="84" r="38" fill="#DDF5E9"/>
+  <circle cx="92" cy="340" r="24" fill="#FFF1CF"/>
+  <path d="M161 128h100l18 52v139H143V180Z" fill="#C9473C" stroke="#18324A" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M171 92h80v49h-80Z" fill="#18324A"/>
+  <path d="M167 221h88v57h-88Z" rx="18" fill="#FFF1CF"/>
+  <circle cx="210" cy="249" r="16" fill="#F4B942"/>
+  <path d="M337 169h89v150h-89Z" fill="#FFFFFF" stroke="#18324A" stroke-width="9"/>
+  <path d="M328 142h107v39H328Z" fill="#27865F"/>
+  <circle cx="381" cy="235" r="28" fill="#F4B942"/>
+  <path d="M455 186h72v133h-72Z" fill="#FFFFFF" stroke="#18324A" stroke-width="9"/>
+  <path d="M447 161h88v37h-88Z" fill="#F4B942"/>
+  <circle cx="491" cy="246" r="23" fill="#C9473C"/>
+</svg>
