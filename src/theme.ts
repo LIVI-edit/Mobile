@@ -1,0 +1,31 @@
+export const theme = {
+  colors: {
+    page: '#010912',
+    surface: '#03121e',
+    surfaceRaised: '#061b2a',
+    surfaceSoft: '#08283b',
+    border: '#164c65',
+    borderSoft: '#10394d',
+    cyan: '#70ddfb',
+    cyanMuted: '#78bed5',
+    gold: '#f0c75e',
+    text: '#eefaff',
+    textSoft: '#89a8b8',
+    textMuted: '#6f91a2',
+    backdrop: 'rgba(0, 8, 15, 0.72)',
+  },
+  radius: {
+    sm: 10,
+    md: 14,
+    lg: 18,
+    xl: 22,
+  },
+  spacing: {
+    xs: 6,
+    sm: 9,
+    md: 12,
+    lg: 16,
+    xl: 20,
+  },
+  maxWidth: 440,
+} as const;
